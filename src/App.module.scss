@@ -1,0 +1,13 @@
+.App {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin-top: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+}
